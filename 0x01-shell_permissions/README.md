@@ -22,3 +22,4 @@ Write a script that changes the group owner to school for the file hello
 Script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 Script that changes the owner and the group owner of _hello to vincent and staff respectively
 Script that changes the owner of the file hello to betty only if it is owned by the user guillaume
+Script that will play the StarWars IV episode in the terminal.
